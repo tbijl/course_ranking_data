@@ -1,0 +1,46 @@
+query_id	skill_id	occ_id	skill_text	occ_text
+000-000	14225	US36	SQL	Data Engineer
+000-001	14225	US1453	SQL	Java Developer / Engineer
+000-002	14225	US1444	SQL	Application Developer / Engineer
+001-000	107	US1465	Software Development	Software Development / Engineering Manager
+001-001	107	US1453	Software Development	Java Developer / Engineer
+001-002	107	US1444	Software Development	Application Developer / Engineer
+002-000	2894	US637	Project Management	IT Project Manager
+002-001	2894	US640	Project Management	Technical Project Manager
+002-002	2894	US370	Project Management	Business / Systems Analyst
+003-000	4202	US36	Python	Data Engineer
+003-001	4202	US1448	Python	Devops Engineer
+003-002	4202	US1457	Python	Python Developer
+004-000	4930	US1453	Java	Java Developer / Engineer
+004-001	4930	US1465	Java	Software Development / Engineering Manager
+004-002	4930	US36	Java	Data Engineer
+005-000	6527	US1465	Software Engineering	Software Development / Engineering Manager
+005-001	6527	US437	Software Engineering	Systems Engineer
+005-002	6527	US1453	Software Engineering	Java Developer / Engineer
+006-000	3283	US611	Customer Service	Computer Support Specialist
+006-001	3283	US612	Customer Service	Help Desk Technician / Analyst
+006-002	3283	US615	Customer Service	Technical Support Engineer / Analyst
+007-000	8737	US611	Technical Support	Computer Support Specialist
+007-001	8737	US615	Technical Support	Technical Support Engineer / Analyst
+007-002	8737	US612	Technical Support	Help Desk Technician / Analyst
+008-000	8597	US627	JavaScript	Front End Developer
+008-001	8597	US1453	JavaScript	Java Developer / Engineer
+008-002	8597	US1465	JavaScript	Software Development / Engineering Manager
+009-000	2367	US1448	Linux	Devops Engineer
+009-001	2367	US437	Linux	Systems Engineer
+009-002	2367	US518	Linux	Systems Administrator
+010-000	15269	US1448	DevOps	Devops Engineer
+010-001	15269	US722	DevOps	Network Engineer / Architect
+010-002	15269	US437	DevOps	Systems Engineer
+011-000	7255	US639	Scrum	Technical Manager / Director
+011-001	7255	US637	Scrum	IT Project Manager
+011-002	7255	US243	Scrum	Software QA Engineer / Tester
+012-000	2743	US370	Business Process	Business / Systems Analyst
+012-001	2743	US637	Business Process	IT Project Manager
+012-002	2743	US380	Business Process	Business Intelligence Analyst
+013-000	12289	US370	Information Systems	Business / Systems Analyst
+013-001	12289	US771	Information Systems	Cyber Security Engineer
+013-002	12289	US437	Information Systems	Systems Engineer
+014-000	361	US637	Scheduling	IT Project Manager
+014-001	361	US437	Scheduling	Systems Engineer
+014-002	361	US640	Scheduling	Technical Project Manager
